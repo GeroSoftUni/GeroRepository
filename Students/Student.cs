@@ -11,6 +11,9 @@
         TMM,
         KTT,
         KST,
+		1TMM,
+        2KTT,
+        3KST,
     }
 
     internal enum Peoples
