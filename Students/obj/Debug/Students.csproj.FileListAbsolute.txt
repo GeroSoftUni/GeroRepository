@@ -1,1 +1,2 @@
 C:\Users\Gero\Desktop\Students\Students\bin\Debug\Students.exe.config
+C:\Users\Gero\Desktop\New folder\trunk\Students\bin\Debug\Students.exe.config
