@@ -11,7 +11,6 @@
         TMM,
         KTT,
         KST,
-		asdd,
     }
 
     internal enum Peoples
